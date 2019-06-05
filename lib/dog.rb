@@ -1,4 +1,5 @@
 class Dog
-  Attr_accessor
+  attr_accessor :name, :breed, :id
+  
 
 end
